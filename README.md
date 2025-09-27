@@ -20,7 +20,7 @@
 
 ## 🔧 Installation
 
-1. **Download** the Bloxwin release.
+1. **Download** the HTRG release.
 2. **Extract** the ZIP archive.
 3. Open Chrome and go to `chrome://extensions/`
 4. Enable **Developer mode**
